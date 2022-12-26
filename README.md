@@ -8,7 +8,7 @@ This is a micro project on integrating a simple web-form with JsonPowerDB. For t
 ## Table of contents
 * [Introduction](#introduction)
 * [Snapshots](#snapshots)
-* [Benefits of Using JPDB](#benefits-of-using-jpdb)
+* [Benefits of Using JPDB](#benifits-of-using-jpdb)
 * [Release History](#release-history)
 * [Sources](#sources)
 
