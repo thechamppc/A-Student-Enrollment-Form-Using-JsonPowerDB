@@ -38,11 +38,8 @@ In this project, I have implemented the following functionalities:
 ### Update 
 ![Update](Screenshots/Update.PNG?text=Form+Update+Here)
 
-### Updated Form 
-![UpdatedForm](Screenshots/UpdatedForm.PNG?text=User+Form+Here)
-
-### Reset 
-![Rest](Screenshots/Reset.PNG?text=Form+Reset+Here)
+### Updated Database 
+![UpdatedDB](Screenshots/UpdatedDB.PNG?text=User+Form+Here)
 
 ## Benifits of Using JPDB
 * It is realtime and simple to use.
