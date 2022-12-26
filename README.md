@@ -24,22 +24,22 @@ In this project, I have implemented the following functionalities:
 ## Snapshots
  
 ### Dashboard
-![User Dashboard](Screenshots/Dashboard.PNG?text=User+Dashboard+Here)
+![User Dashboard](Screenshots/Dashboard.png?text=User+Dashboard+Here)
 
 ### Database 
-![Databse](Screenshots/Database.PNG?text=User+Database+Here)
+![Databse](Screenshots/Database.png?text=User+Database+Here)
 
 ### Form 
-![Form](Screenshots/Form.PNG?text=User+Form+Here)
+![Form](Screenshots/Form.png?text=User+Form+Here)
 
 ### Save 
-![Save](Screenshots/Save.PNG?text=Form+Save+Here)
+![Save](Screenshots/Save.png?text=Form+Save+Here)
 
 ### Update 
-![Update](Screenshots/Update.PNG?text=Form+Update+Here)
+![Update](Screenshots/Update.png?text=Form+Update+Here)
 
 ### Updated Database 
-![UpdatedDB](Screenshots/UpdatedDB.PNG?text=User+Form+Here)
+![UpdatedDB](Screenshots/UpdatedDB.png?text=User+Form+Here)
 
 ## Benifits of Using JPDB
 * It is realtime and simple to use.
@@ -59,7 +59,7 @@ In this project, I have implemented the following functionalities:
 * Created a form to save student data in school database using bootstrap 
 * Connecetd token using javascript and AJAX.
 * Used predefined functions of jpdb common.js.
-* Added a Readme file
+* Added a Readme.md file
 
 ## Sources
 * https://careers.login2explore.com/
