@@ -1,5 +1,5 @@
 # Student-Enrollment-Form-Using-JsonPowerDB
-This is a micro project on integrating a simple web-form with JsonPowerDB. For the purpose of this project, I have created a simple &amp; interactive student enrollment form using HTML, CSS and Javascript. 
+This is a micro project on integrating a simple web-form with JsonPowerDB. For the purpose of this project, I have created a simple &amp; interactive student enrollment form using Bootstrap, Javascript and Ajax. 
 
 * JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database.
 * JPDB supports and advocates for true serverless and pluggable API development.
@@ -45,22 +45,22 @@ In this project, I have implemented the following functionalities:
 ![Rest](Screenshots/Reset.PNG?text=Form+Reset+Here)
 
 ## Benifits of Using JPDB
-*It is realtime and simple to use.
-*Easy to maintain the reconds.
-*Serverless support - fast development - cuts time to market.
-*Build using world's fastest indexing engine PowerIndex which gives unlimited data capacity, supporting unlimited indexes, realtime data processing which makes it fast and secure.
-*Give developer friendly Webservices API which reduce the developement cost.
-*Multiple Security Layers.
-*Schema free - easy to maintain
-*A single instance - Million Indexes
-*Inbuilt support for querying multiple databases.
-*It is light weight.
-*It is a serverless database so that you don't have to choose an instance size at all.
+*It is realtime and simple to use.\
+*Easy to maintain the reconds.\
+*Serverless support - fast development - cuts time to market.\
+*Build using world's fastest indexing engine PowerIndex which gives unlimited data capacity, supporting unlimited indexes, realtime data processing which makes it fast and secure.\
+*Give developer friendly Webservices API which reduce the developement cost.\
+*Multiple Security Layers.\
+*Schema free - easy to maintain \
+*A single instance - Million Indexes \
+*Inbuilt support for querying multiple databases. \
+*It is light weight. \
+*It is a serverless database so that you don't have to choose an instance size at all. \
  
 ## Release History
 ### Version 0.0 /26/15/2022
 a. created a form to save student data in school database using bootstrap  \
-b. connecetd tokken using javascript and AJAX.\
+b. connecetd token using javascript and AJAX.\
 c. used predefined functions of jpdb common.js.
  
  
