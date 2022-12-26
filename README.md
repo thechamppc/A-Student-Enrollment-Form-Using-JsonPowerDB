@@ -5,4 +5,11 @@ This is a micro project on integrating a simple web-form with JsonPowerDB. For t
 * JPDB supports and advocates for true serverless and pluggable API development.
 * Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
 
+## Table of contents
+* [Introduction](#introduction)
+* [Illustrations](#illustrations)
+* [Benefits of Using JsonPowerDB](#benefits-of-using-jsonpowerdb)
+* [Release History](#release-history)
+* [Sources](#sources)
+
 
