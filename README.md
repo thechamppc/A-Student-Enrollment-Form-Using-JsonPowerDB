@@ -58,10 +58,11 @@ In this project, I have implemented the following functionalities:
 * It is a serverless database - no need to choose an instance size at all. 
  
 ## Release History
-### Version 0.0 /26/15/2022
+### Version 0.0 (26/15/2022)
 * Created a form to save student data in school database using bootstrap 
 * Connecetd token using javascript and AJAX.
 * Used predefined functions of jpdb common.js.
+* Added a Readme file
  
  
 
