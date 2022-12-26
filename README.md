@@ -12,4 +12,25 @@ This is a micro project on integrating a simple web-form with JsonPowerDB. For t
 * [Release History](#release-history)
 * [Sources](#sources)
 
+## Introduction
+In this project, I have implemented the following functionalities:
+* Register a student
+* Validity checking of each field
+* Alerts after each action
+* Fetch an existing record
+* Update an existing record
+* Reset the form
+
+ ## Snapshots
+ 
+### Dashboard
+![User Dashboard](Screenshots/Dashboard.PNG?text=User+Dashboard+Here)
+
+### Database 
+![Databse](Screenshots/Database.PNG?text=User+Dashboard+Here)
+
+### Form 
+![Form](Screenshots/Form.PNG?text=User+Dashboard+Here)
+ 
+ 
 
