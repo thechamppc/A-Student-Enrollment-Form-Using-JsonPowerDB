@@ -59,9 +59,9 @@ In this project, I have implemented the following functionalities:
  
 ## Release History
 ### Version 0.0 /26/15/2022
-a. created a form to save student data in school database using bootstrap  \
-b. connecetd token using javascript and AJAX.\
-c. used predefined functions of jpdb common.js.
+1. Created a form to save student data in school database using bootstrap  \
+2. Connecetd token using javascript and AJAX.\
+3. Used predefined functions of jpdb common.js.
  
  
 
