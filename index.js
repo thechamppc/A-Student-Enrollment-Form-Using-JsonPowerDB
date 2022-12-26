@@ -55,7 +55,7 @@
             };
 
             return JSON.stringify(jsonStrObj);
-        };
+        }
         
         function UpdateStudent() {
             var jsonStr = validateAndGetFormData();
