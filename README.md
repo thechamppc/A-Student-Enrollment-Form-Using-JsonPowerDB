@@ -7,7 +7,7 @@ This is a micro project on integrating a simple web-form with JsonPowerDB. For t
 
 ## Table of contents
 * [Introduction](#introduction)
-* [Illustrations](#illustrations)
+* [Snapshots](#snapshots)
 * [Benefits of Using JsonPowerDB](#benefits-of-using-jsonpowerdb)
 * [Release History](#release-history)
 * [Sources](#sources)
@@ -21,16 +21,28 @@ In this project, I have implemented the following functionalities:
 * Update an existing record
 * Reset the form
 
- ## Snapshots
+## Snapshots
  
 ### Dashboard
 ![User Dashboard](Screenshots/Dashboard.PNG?text=User+Dashboard+Here)
 
 ### Database 
-![Databse](Screenshots/Database.PNG?text=User+Dashboard+Here)
+![Databse](Screenshots/Database.PNG?text=User+Database+Here)
+
+### Save 
+![Save](Screenshots/Save.PNG?text=Form+Save+Here)
 
 ### Form 
-![Form](Screenshots/Form.PNG?text=User+Dashboard+Here)
+![SavedForm](Screenshots/SavedForm.PNG?text=User+Form+Here)
+
+### Update 
+![Update](Screenshots/Update.PNG?text=Form+Update+Here)
+
+### Updated Form 
+![UpdatedForm](Screenshots/UpdatedForm.PNG?text=User+Form+Here)
+
+### Reset 
+![Rest](Screenshots/Reset.PNG?text=Form+Reset+Here)
  
  
 
