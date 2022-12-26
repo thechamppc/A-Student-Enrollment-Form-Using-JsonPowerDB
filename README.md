@@ -65,9 +65,9 @@ In this project, I have implemented the following functionalities:
 * Added a Readme file
 
 ## Sources
-https://careers.login2explore.com/
-https://login2explore.com/
-http://api.login2explore.com:5577/user/register_dev.html
+* https://careers.login2explore.com/
+* https://login2explore.com/
+* http://api.login2explore.com:5577/user/register_dev.html
  
  
 
