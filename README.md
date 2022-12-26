@@ -8,7 +8,7 @@ This is a micro project on integrating a simple web-form with JsonPowerDB. For t
 ## Table of contents
 * [Introduction](#introduction)
 * [Snapshots](#snapshots)
-* [Benefits of Using JsonPowerDB](#benefits-of-using-jsonpowerdb)
+* [Benefits of Using JPDB](#benefits-of-using-jpdb)
 * [Release History](#release-history)
 * [Sources](#sources)
 
@@ -63,6 +63,11 @@ In this project, I have implemented the following functionalities:
 * Connecetd token using javascript and AJAX.
 * Used predefined functions of jpdb common.js.
 * Added a Readme file
+
+## Sources
+https://careers.login2explore.com/
+https://login2explore.com/
+http://api.login2explore.com:5577/user/register_dev.html
  
  
 
